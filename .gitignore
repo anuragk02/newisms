@@ -1,0 +1,12 @@
+data/
+
+backend/tmp/
+backend/build-errors.log
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+
+.env
